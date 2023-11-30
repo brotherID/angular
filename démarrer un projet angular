@@ -1,0 +1,34 @@
+Pour démarrer un projet Angular dans Visual Studio Code, vous pouvez suivre ces étapes :
+
+Étapes pour démarrer un projet Angular dans Visual Studio Code :
+Étape 1 : Installer Node.js et npm
+Assurez-vous d'avoir Node.js et npm (Node Package Manager) installés sur votre ordinateur. Vous pouvez les télécharger et les installer depuis Node.js.
+
+Étape 2 : Installer Angular CLI (Interface de ligne de commande Angular)
+Ouvrez votre terminal ou invite de commandes et installez Angular CLI en utilisant la commande suivante :
+
+bash
+npm install -g @angular/cli
+
+Étape 3 : Créer un nouveau projet Angular
+Dans le terminal, naviguez jusqu'à l'endroit où vous souhaitez créer votre projet. Ensuite, exécutez la commande suivante pour créer un nouveau projet Angular :
+
+bash
+ng new nom-du-projet
+
+Remplacez nom-du-projet par le nom que vous souhaitez donner à votre projet.
+
+Étape 4 : Ouvrir le projet dans Visual Studio Code
+Après avoir créé votre projet Angular, ouvrez Visual Studio Code. Dans le menu, sélectionnez "Fichier" > "Ouvrir un dossier" et choisissez le dossier du projet que vous venez de créer.
+
+Étape 5 : Exécuter le projet
+Dans le terminal de Visual Studio Code, naviguez jusqu'au répertoire de votre projet (si ce n'est pas déjà fait) à l'aide de la commande cd nom-du-projet.
+
+Ensuite, pour exécuter l'application Angular, utilisez la commande :
+
+bash
+ng serve
+
+Cette commande lancera un serveur de développement. Une fois le serveur prêt, ouvrez votre navigateur et accédez à l'adresse http://localhost:4200/. Vous devriez voir votre application Angular en cours d'exécution.
+
+Ces étapes devraient vous permettre de démarrer un projet Angular dans Visual Studio Code avec Angular CLI. N'hésitez pas à explorer davantage les fonctionnalités d'Angular et de Visual Studio Code pour développer votre application.
