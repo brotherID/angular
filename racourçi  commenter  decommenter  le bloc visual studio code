@@ -1,0 +1,9 @@
+Dans Visual Studio Code, pour commenter ou décommenter rapidement un bloc de code, vous pouvez utiliser des raccourcis clavier.
+
+Commenter du code : Sélectionnez le bloc de code que vous souhaitez commenter, puis utilisez le raccourci clavier suivant :
+Sur Windows/Linux : Ctrl + /
+Sur macOS : Cmd + /
+Ce raccourci ajoutera des marqueurs de commentaire appropriés (par exemple, // pour JavaScript/TypeScript) au début de chaque ligne du bloc de code sélectionné.
+
+Décommenter du code : Utilisez le même raccourci lorsque le bloc de code est déjà commenté. Le raccourci fonctionne comme un basculeur : s'il y a des lignes commentées dans la sélection, il les décommentera, et s'il n'y en a pas, il les commentera.
+Assurez-vous de sélectionner tout le bloc de code que vous souhaitez commenter ou décommenter avant d'utiliser le raccourci. Cela fonctionne pour de nombreux langages de programmation pris en charge par Visual Studio Code, y compris JavaScript, TypeScript, HTML, CSS, etc.
